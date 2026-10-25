@@ -1,0 +1,82 @@
+HOW TO USE THIS SECTION
+A legal winning hand must have a valid shape and at least one yaku. Dora, red dora, ura-dora, and kan-dora add bonus han but are not yaku. Yaku values and some edge-case interpretations can vary by ruleset; use the event's official list as the final authority.
+
+Notation:
+- Closed han: value when the hand remains closed.
+- Open han: value after opening the hand, if the yaku is still valid.
+- “Closed only” means the yaku cannot be earned with an open hand.
+- Values below describe common four-player riichi rules and should be verified for a specific ruleset.
+
+COMMON 1-HAN YAKU
+| Yaku | Basic condition | Closed | Open |
+| --- | --- | --- | --- |
+| Riichi | Declare riichi with a closed tenpai hand | 1 | Closed only |
+| Menzen Tsumo | Win by self-draw with a closed hand | 1 | Closed only |
+| Ippatsu | Win within the eligible interval after riichi without an interrupting call | 1 | Closed only |
+| Tanyao (All Simples) | Hand contains only suited 2–8 tiles | 1 | Usually 1; some rulesets restrict open tanyao |
+| Yakuhai | Triplet/quad of a dragon, seat wind, or round wind | 1 per applicable value set | 1 per applicable value set |
+| Pinfu | Closed all-sequence hand, non-value pair, qualifying two-sided wait, and no fu-adding feature | 1 | Closed only |
+| Iipeikou | Two identical sequences in the same suit in a closed hand | 1 | Closed only |
+| Haitei Raoyue | Win on the last live-wall draw | 1 | 1 |
+| Houtei Raoyui | Win on the last discard of the hand | 1 | 1 |
+| Rinshan Kaihou | Win on the replacement draw after a kan | 1 | 1 |
+| Chankan | Win by ron on an opponent's kan tile under the rules | 1 | 1 |
+| Double Riichi | Riichi declared on the first uninterrupted discard turn | 2 | Closed only |
+
+COMMON 2-HAN YAKU
+| Yaku | Basic condition | Closed | Open |
+| --- | --- | --- | --- |
+| Chiitoitsu (Seven Pairs) | Seven distinct pairs; pairs cannot be combined into a quad | 2 | Closed only |
+| Toitoi (All Triplets) | Four triplet/quad groups and a pair | 2 | Usually 2 |
+| Sanankou (Three Concealed Triplets) | Three concealed triplets/quads under the scoring rules | 2 | Usually 2 |
+| Sankantsu (Three Kans) | Three quads | 2 | 2 |
+| Sanshoku Doukou | Same-number triplets/quads in all three suits | 2 | 2 |
+| Sanshoku Doujun (Mixed Triple Sequence) | Same sequence in all three suits | 2 | 1 |
+| Ittsu (Pure Straight) | 123, 456, and 789 in one suit | 2 | 1 |
+| Chanta (Outside Hand) | Every group and the pair contain a terminal or honor; includes a sequence | 2 | 1 |
+| Shousangen (Little Three Dragons) | Two dragon triplets/quads and a pair of the third dragon | 2 | 2 |
+| Honroutou (All Terminals and Honors) | All tiles are terminals or honors; normally combines with Toitoi or Chiitoitsu | 2 | 2 |
+| Ryanpeikou (Twice Pure Double Sequence) | Two pairs of identical sequences in a closed hand | 3 | Closed only |
+
+OTHER IMPORTANT YAKU
+| Yaku | Basic condition | Closed | Open |
+| --- | --- | --- | --- |
+| Honitsu (Half Flush) | One numbered suit plus honors | 3 | 2 |
+| Chinitsu (Full Flush) | One numbered suit only, no honors | 6 | 5 |
+| Junchan (Pure Outside Hand) | Every group and pair contain terminals, no honors; includes a sequence | 3 | 2 |
+Note: Some yaku listed above are commonly described as 2-han yaku when closed and lose 1 han when open. Check the exact table for your ruleset.
+
+YAKUMAN: LIMIT HANDS
+Yakuman are top-limit hands. Rules vary on double yakuman, multiple yakuman, and certain responsibility-payment cases.
+
+| Yakuman | Basic condition |
+| --- | --- |
+| Kokushi Musou (Thirteen Orphans) | One each of the 13 terminal/honor types plus a duplicate of any one of them. |
+| Suuankou (Four Concealed Triplets) | Four concealed triplets/quads and a pair; winning method and wait can affect double-yakuman treatment. |
+| Daisangen (Big Three Dragons) | Triplets/quads of all three dragons. |
+| Shousuushii (Little Four Winds) | Three wind triplets/quads and a pair of the fourth wind. |
+| Daisuushii (Big Four Winds) | Triplets/quads of all four winds; often treated as double yakuman in some rulesets. |
+| Tsuuiisou (All Honors) | Every tile is an honor. |
+| Chinroutou (All Terminals) | Every tile is a suited terminal (1 or 9). |
+| Ryuuiisou (All Green) | Every tile is one of the tiles recognized as green by the ruleset. |
+| Chuuren Poutou (Nine Gates) | A qualifying one-suit hand with the required 1112345678999 structure plus one additional tile; pure nine-gates treatment varies. |
+| Suukantsu (Four Kans) | Four quads. |
+| Tenhou (Blessing of Heaven) | Dealer's qualifying first-draw win before interruption. |
+| Chiihou (Blessing of Earth) | Non-dealer's qualifying first-draw win before interruption. |
+| Renhou (Blessing of Man) | Early non-dealer ron before the first uninterrupted draw cycle; optional and varies substantially by ruleset. |
+
+SITUATIONAL AND COMBINED YAKU NOTES
+- Haitei and Houtei refer to the last live-wall draw and its resulting last discard, respectively; do not confuse them.
+- Rinshan Kaihou is associated with a replacement draw after a kan.
+- Chankan is a ron on a kan declaration's tile when the rules permit it.
+- Yakuhai may stack: a dragon triplet is one han; a seat-wind triplet is one han; a round-wind triplet is one han. If a wind is both seat and round wind, it can score for both under common rules.
+- A yaku can combine with other yaku, but some combinations are structurally incompatible.
+- A hand is scored using the applicable interpretation and highest legal scoring result under the rules.
+
+YAKU CHECKLIST BEFORE WINNING
+1. Is the tile shape complete?
+2. Is the hand legal under the current rules?
+3. Which yaku are present, and what are their han values?
+4. Which dora indicators and red tiles apply?
+5. Is the hand furiten for ron?
+6. What fu and payments apply?

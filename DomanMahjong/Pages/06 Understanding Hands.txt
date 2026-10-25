@@ -1,0 +1,40 @@
+RECOGNIZE THE BUILDING BLOCKS
+| Shape | Example | What it is |
+| --- | --- | --- |
+| Sequence / run | 3-4-5 in one suit | Three consecutive numbered tiles in the same suit. |
+| Triplet | 7-7-7 | Three identical tiles. |
+| Pair / head | East-East | Two identical tiles; standard hands need one pair. |
+| Side-wait protorun | 4-5 | Can complete as 3-4-5 or 4-5-6. |
+| Closed-wait protorun | 4-6 | Needs the middle tile, 5. |
+| Edge-wait protorun | 1-2 or 8-9 | Needs 3 or 7 respectively. |
+| Floating tile | East alone | Not yet part of a useful group; it may connect later or be discarded. |
+
+THE FIVE-BLOCK METHOD
+1. Divide the hand into blocks. Look for groups, protoruns, pairs, and useful shapes.
+2. Count the blocks. A standard hand ultimately needs five components: four groups plus one head.
+3. Find redundancy. If you have more than five plausible blocks, compare which one contributes least to speed or value.
+4. Build missing blocks. If you have fewer than five, keep the floating tiles most likely to connect.
+5. Consider yaku and safety. The tile that maximizes immediate tile acceptance is not always best if another discard preserves a realistic scoring route or avoids danger.
+
+WAIT TYPES
+- Side wait (ryanmen): two-sided wait, such as 3-4 waiting on 2 or 5. Usually the most flexible incomplete sequence shape.
+- Closed wait (kanchan): gap in the middle, such as 3-5 waiting on 4.
+- Edge wait (penchan): 1-2 waiting on 3 or 8-9 waiting on 7.
+- Pair wait (tanki): waiting for the matching tile to complete the pair.
+- Dual pon wait (shanpon): two pairs; either matching tile can complete a triplet.
+- Single wait: only one tile type completes the hand, such as a pair wait or a closed/edge wait.
+
+WHAT IS A YAKU?
+A yaku is the scoring condition that makes a hand legal to win. Common examples introduced in the book include:
+- Riichi: declare with a closed tenpai hand.
+- Tanyao (All Simples): use only 2–8 numbered tiles.
+- Yakuhai: make a triplet of dragons, seat wind, or prevailing wind.
+- Pinfu: a closed hand with four sequences, a non-value pair, and a qualifying two-sided wait.
+- Ittsuu (Pure Straight): sequences 123, 456, and 789 in one suit.
+- Sanshoku (Mixed Triple Chow): the same sequence in all three suits.
+- Honitsu (Half Flush): one numbered suit plus honors.
+- Toitoi (All Pungs): four triplet/quad groups and a pair.
+- Chiitoitsu (Seven Pairs): seven distinct pairs.
+
+IMPORTANT
+A hand can be tenpai but still lack a yaku. Before calling ron or tsumo, the hand must satisfy a legal yaku under the rules being played. Dora alone is not enough.

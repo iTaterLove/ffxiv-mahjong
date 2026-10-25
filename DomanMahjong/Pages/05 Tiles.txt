@@ -1,0 +1,18 @@
+
+
+| Tile | Name | Type |
+| --- | --- | --- |
+| Characters | Manzu | Suited tile 1-9 |
+| Circles | Pinzu | Suited tile 1-9 |
+| Bamboo | Souzu | Suited tile 1-9 |
+| North |   | Honor |
+| East |   | Honor |
+| South |   | Honor |
+| West |   | Honor |
+| White Dragon |   | Honor |
+| Green Dragon |   | Honor |
+| Red Dragon |   | Honor |
+| Red Fives |   | Special tile |
+
+TILE VERSATILITY
+Useful rule of thumb from the book: suited 3–7 tiles are generally the most versatile for building sequences, followed by 2/8, then 1/9; honors cannot form sequences. A side-wait protorun is usually more flexible than a closed wait, which is usually more flexible than an edge wait.

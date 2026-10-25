@@ -1,0 +1,35 @@
+THREE STEPS TO A SCORE
+1. Count han: add the han from each yaku, then add bonus han from dora, red dora, and (when eligible) ura dora.
+2. Determine fu: fu come from the base hand, winning method, concealed ron, group types, value-tile pair, and certain waits. Some hands use fixed fu values.
+3. Apply limits and payment rules: use the score table for the han/fu combination, whether the winner is dealer, and whether the win is ron or tsumo.
+
+COMMON FU REFERENCE
+| Source | Fu added |
+| --- | --- |
+| Base for standard hands | 20 fu |
+| Tsumo (except pinfu) | +2 fu |
+| Closed hand winning by ron | +10 fu |
+| Open hand winning by ron | +0 fu |
+| Open triplet of simples | +2 fu |
+| Concealed triplet of simples | +4 fu |
+| Open triplet of terminals/honors | +4 fu |
+| Concealed triplet of terminals/honors | +8 fu |
+| Open quad of simples / terminals-honors | +8 / +16 fu |
+| Concealed quad of simples / terminals-honors | +16 / +32 fu |
+| Pair of dragons, seat wind, or prevailing wind | +2 fu for each applicable value |
+| Closed, edge, or single wait | +2 fu |
+
+Fu is not simply added in every exceptional hand. Pinfu and Seven Pairs have special scoring treatment; ordinary fu rounding and exceptions apply. This table is a learning summary, not a complete scoring algorithm.
+
+LIMIT HANDS
+When a hand reaches a limit, use the limit-hand payment rather than continuing ordinary han/fu multiplication. Familiarize yourself with mangan and higher limits, including haneman, baiman, sanbaiman, and yakuman. Multiple yakuman and double-yakuman treatment depend on the rules in use.
+
+RON VERSUS TSUMO
+- Ron: the player who discarded the winning tile pays the hand's ron value.
+- Tsumo: the other players pay according to the dealer/non-dealer payment schedule; the dealer's share differs from a non-dealer's.
+- Dealer win: dealer wins generally have higher payments than an equivalent non-dealer win.
+- Riichi bet: the 1,000-point stick is awarded according to the applicable end-of-hand rules.
+- Honba/counters: counters add payments according to the rule set.
+
+END-OF-GAME POINTS
+Keep raw points, placement bonuses (uma), and any winning premium (oka) conceptually separate. The book describes a Tenhou scoring setup with oka and 10–20 uma; other formats, including EMA events, may use different end-of-game calculations.

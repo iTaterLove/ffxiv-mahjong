@@ -1,0 +1,124 @@
+PURPOSE
+This section extends the introductory hand-building material into decision-making. Riichi strategy is not just “make a hand quickly”: it balances probability of winning, expected hand value, deal-in risk, turn timing, and final match position. Riichi.Wiki describes tile efficiency in terms of both speed efficiency and point efficiency; the right balance depends on the situation.
+
+1. TILE EFFICIENCY: KEEPING USEFUL SHAPES
+Tile efficiency is the practice of choosing discards that leave the hand with strong paths to completion. Evaluate a discard by considering:
+- How many distinct tile types improve the hand.
+- How many copies of those tiles remain unseen.
+- Whether the draw creates a better shape or merely replaces one weak shape with another.
+- Whether the hand has a plausible yaku route.
+- Whether the resulting hand can defend if the table becomes dangerous.
+
+A tile's value is contextual. A lone honor may be useful as a safe discard later, a value-tile pair may be a scoring route, and a middle suited tile may be valuable because it supports multiple sequences.
+
+GENERAL SHAPE GUIDELINES
+- A two-sided sequence shape (such as 3-4) usually has broader acceptance than a closed or edge wait.
+- Connected tiles often have more future uses than isolated tiles.
+- A pair can be a head, a triplet candidate, or a component of a special hand.
+- Avoid breaking a strong completed group unless there is a clear reason, such as improving the hand's value, wait, or safety.
+- Do not judge a tile only by its face value: its connections, remaining copies, yaku potential, and danger all matter.
+
+2. SHANTEN AND UKEIRE
+Shanten measures the hand's distance from tenpai. A hand at 0-shanten is tenpai; 1-shanten needs an improvement before it can become tenpai. A standard hand's shanten count is not simply the number of tiles missing from a finished hand because incomplete groups, the pair, and redundancy interact.
+
+Ukeire is the set and number of tiles that improve the hand's shanten or shape. Count visible copies, not just tile types:
+- Four copies of a tile exist in the set before accounting for tiles in your hand, discards, calls, and other visible locations.
+- A wait with many copies remaining may be more promising than a nominally wider wait whose tiles are mostly visible.
+- A draw may improve the hand without reducing shanten; compare shape quality as well as the number of improving tiles.
+
+Useful review question: “If I discard this tile, which exact tile types improve me, and how many copies are plausibly left?”
+
+3. THE FIVE-BLOCK METHOD IN PRACTICE
+A standard hand needs four groups and one pair. Before tenpai, the hand may contain more than five candidate blocks. Compare candidate blocks by:
+- Completeness: finished group, strong two-sided shape, weak incomplete shape, or isolated tile.
+- Flexibility: how many different draws improve it.
+- Redundancy: whether another block already serves the same purpose.
+- Yaku contribution: whether it supports a scoring route.
+- Defense: whether retaining it creates safe-discard options.
+
+Do not automatically keep the five blocks that look most complete. Sometimes keeping a slightly less developed block gives much more total acceptance.
+
+4. YAKU PLANNING AND CALLING
+Before calling chii or pon, name the yaku that will let the hand win. An open hand may become faster, but calling can remove riichi and other closed-only options and may reduce the value of some yaku.
+Ask:
+- What yaku will this hand have if I call?
+- Does the call materially improve speed?
+- How many tiles will remain concealed and flexible?
+- Is the hand valuable enough to justify exposing it?
+- Will the call leave me with poor waits or no safe discards?
+- Is the table situation urgent enough to prioritize speed?
+
+Calling is not inherently good or bad. It is a trade-off between speed, value, flexibility, and information revealed to opponents.
+
+5. RIICHI DECISIONS
+Riichi is powerful because it provides a yaku and can enable ippatsu and ura-dora. It also announces a threat and generally locks the hand into a more constrained course. Consider:
+- Hand value: what is the likely score if you win?
+- Wait quality: how many winning tiles remain, and are they likely to be discarded or held?
+- Timing: early tenpai generally offers more chances to win than late tenpai.
+- Safety: after riichi, you have limited ability to change course and defend.
+- Placement: a player leading late may value avoiding a deal-in differently from a player who must catch up.
+- Alternatives: dama (staying silent) can preserve flexibility or conceal tenpai, but gives up riichi's yaku and bonuses.
+- Opponent threats: declaring riichi into an existing threat can be reasonable or reckless depending on the hand, wait, points, and available safety.
+
+There is no universal rule that every closed tenpai should riichi. Learn the factors, then review the decision in context.
+
+6. PUSH OR FOLD
+“Push” means continuing to pursue a win while accepting some deal-in risk. “Fold” means prioritizing defense and reducing the chance of paying an opponent.
+Consider pushing when:
+- Your hand is close to completion and has meaningful value.
+- Your wait is strong and useful tiles remain.
+- You are the dealer and a win or tenpai has significant value to the match.
+- Your score position requires taking risk to improve placement.
+Consider folding when:
+- Your hand is far from completion or low value.
+- An opponent has declared riichi or shows a strong threat.
+- You have safe or relatively safe discards available.
+- A deal-in would be especially costly given your current placement.
+These are factors, not absolute rules. A strong hand can still fold, and a weak hand can sometimes justify a push.
+
+7. DEFENSE: SAFE AND DANGEROUS TILES
+Defense reduces the chance of dealing in. No tile is guaranteed safe against every opponent in every circumstance, but some evidence makes a discard safer against a particular player.
+
+GENBUTSU
+A genbutsu is a tile that an opponent has discarded and that is safe against that opponent for ron under ordinary furiten rules. It is not necessarily safe against the other two opponents, and it can still be dangerous if rules or circumstances differ.
+
+SUJI
+Suji uses the relationship between sequence waits and visible discards to estimate danger. It is a heuristic, not proof of safety. A tile can still win on triplet waits, pair waits, unusual shapes, and other patterns that suji does not cover.
+
+KABE / WALL
+A kabe occurs when visible copies of a tile restrict the possible sequences that can use it. This can reduce some possible waits, but it does not make every related tile safe: other wait types remain possible.
+
+OTHER DEFENSIVE INFORMATION
+- Discard timing: an early discard may suggest the player did not need that tile at the time, but it is not a guarantee.
+- Tile visibility: count copies in your hand, discards, calls, and indicators where relevant.
+- Discard patterns: the suit and honor patterns in a player's discards may provide clues, but reading hands is probabilistic.
+- Multiple threats: a tile safe against one player may deal into another.
+- Safe-tile supply: preserve known safe tiles when the hand is not worth pushing.
+- Sakigiri: discarding a potentially dangerous tile earlier, while it is less useful, can preserve safer options for later.
+
+8. DEAL-IN RISK AND HAND VALUE
+Do not evaluate a discard only by “could this tile win?” Estimate the trade-off:
+- How likely is the opponent to be tenpai?
+- What is the likely cost of dealing in?
+- What is your chance of winning if you continue?
+- What score can your hand reasonably make?
+- How does the result affect final placement?
+Exact probabilities require experience, data, or a model. At the table, use a consistent qualitative process rather than pretending to know certainty.
+
+9. MATCH-AWARE STRATEGY
+The best hand-level decision can change with the scoreboard:
+- When leading late, preserving the lead can be more important than maximizing a small hand.
+- When far behind, a higher-variance line may be necessary.
+- Dealer status affects payments and the value of continuation.
+- Honba, riichi sticks, remaining hands, and placement bonuses can change incentives.
+- Avoid chasing a large hand automatically if a smaller win achieves the needed placement.
+
+10. AFTER-HAND REVIEW
+For a useful review, record:
+- Starting hand and the first few discards.
+- The discard where two plausible choices diverged.
+- Shanten and ukeire before and after that discard.
+- The intended yaku and expected value.
+- What made you push, fold, riichi, or call.
+- Whether the result was luck or a decision-quality issue.
+Judge decisions by the information available at the time, not only by whether the hand won.

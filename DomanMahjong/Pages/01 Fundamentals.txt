@@ -1,0 +1,24 @@
+OVERVIEW
+Riichi Mahjong (or Doman Mahjong) is a four-player Japanese mahjong game. The aim of each hand is to complete a legal winning hand with at least one yaku (a scoring pattern), then make decisions that improve your final placement over the full game.
+
+THE BASIC RHYTHM
+1. Receive your starting tiles.
+2. On your turn, draw one tile (unless a call changes the flow), then discard one tile.
+3. Improve your shape while keeping a route to a yaku.
+4. Win by tsumo (drawing your winning tile yourself) or ron (winning on another player's discard).
+
+THE STANDARD WINNING SHAPE
+A standard hand is usually made of four groups of three tiles and a pair of identical tiles. A group can be a sequence or a triplet; a quad is also possible after a kan.
+
+Two important exceptions are Chiitoitsu (Seven Pairs) and Kokushi Musou (Thirteen Orphans). They do not use the standard four-groups-and-a-pair structure.
+
+THREE QUESTIONS TO ASK EACH TURN
+1. What improves my hand? Prefer shapes that accept more useful tiles. This is tile efficiency.
+2. Can this hand score? Identify a yaku plan; dora alone does not make a hand legal.
+3. Is it safe to continue? When an opponent threatens to win, compare your hand's value and progress against the risk of dealing in.
+
+BEGINNER PRIORITIES
+- Learn the tile families and recognize sequences, triplets, and pairs at a glance.
+- Track your hand's distance from ready: tenpai means one tile away from winning.
+- Keep a balance between speed, hand value, and safety.
+- Remember that the goal of a full game is a good final placement, not simply to win as many individual hands as possible.

@@ -1,0 +1,55 @@
+1. THE TILE SET
+A standard four-player riichi set has 136 tiles:
+- 108 suited tiles: three suits, numbered 1–9, four copies of each tile.
+- 16 wind tiles: East, South, West, and North, four copies each.
+- 12 dragon tiles: White, Green, and Red, four copies each.
+- Red fives, when used, replace ordinary fives rather than adding extra tiles to the 136-tile set.
+Flowers and seasons are not used in standard four-player riichi.
+
+2. SETUP AND DEAL
+The precise dice, wall-breaking, and dealing procedure should be learned from a rules diagram or a live demonstration, because small procedural errors can affect the dead wall and dora indicators.
+At a high level:
+1. Shuffle tiles face down and build four walls.
+2. Determine the dealer and break the wall using the table's procedure.
+3. Deal the starting tiles. The dealer begins with one extra tile and makes the first discard.
+4. Reveal the initial dora indicator according to the rules.
+5. Keep the dead wall and live wall distinct; replacement draws and dora indicators use designated dead-wall positions.
+
+3. THE TURN CYCLE
+A normal turn is draw one tile, evaluate the hand, discard one tile. Calls alter the flow:
+- Chii claims a discard to complete a sequence and is normally limited to the player immediately before you in turn order.
+- Pon claims a discard to complete a triplet.
+- An open kan claims a discard to complete a quad.
+- An added kan upgrades a previously called triplet by adding the fourth tile.
+- A concealed kan uses four matching concealed tiles, subject to the applicable procedure.
+- A kan normally causes a replacement draw and an additional dora indicator to be revealed according to the rules.
+- Calls may interrupt ippatsu and can affect whether a first-turn/abortive-draw condition remains valid.
+
+4. THE WALL AND DEAD WALL
+The live wall supplies ordinary draws. The dead wall is reserved for dora indicators and replacement draws after kans. The exact indicator and replacement-draw procedure matters, especially after multiple kans. A table's official rules should specify the maximum number of kans and what happens if all four kans are declared by one player versus multiple players.
+
+5. HANDS, ROUNDS, AND MATCHES
+- A hand is one deal and its play until a win or draw.
+- A round is identified by the prevailing wind, commonly East then South in a standard hanchan.
+- A hanchan typically contains East and South rounds; an East-only game is shorter.
+- Seat wind identifies a player's current seat role and can change as the dealer rotates.
+- Dealer continuation commonly occurs after the dealer wins and may occur after a draw when the dealer is tenpai, depending on the rules.
+- The match ends under the applicable round-completion and extension rules. Some games allow extra rounds if the required leader/score condition is not met.
+
+6. DRAWS AND ABORTIVE DRAWS
+An exhaustive draw occurs when the live wall is exhausted without a win. Players may reveal whether they are tenpai under the rules, and payments may be exchanged between tenpai and noten players.
+Abortive draws end a hand early under specified conditions. Examples used in common rule sets include:
+- Nine terminals and honors on a player's first turn.
+- Four players declaring riichi.
+- Three players winning on the same discard.
+- Four identical wind tiles discarded during the first uninterrupted round.
+- Four kans declared by different players.
+Not every ruleset includes every abortive draw, and the exact timing requirements matter.
+
+7. FURITEN: THE ESSENTIAL DISTINCTION
+Furiten prevents a player from winning by ron on any tile that completes their current wait when the furiten condition applies. It does not normally prevent a self-draw win.
+Common categories:
+- Own-discard furiten: one or more tiles in the current winning wait are in your own discard row.
+- Temporary furiten: you pass a legal ron opportunity and are temporarily unable to ron until the relevant reset, commonly your next draw.
+- Riichi furiten: after passing a legal ron opportunity while in riichi, the furiten restriction lasts for the remainder of the hand under common rules.
+Furiten applies to the wait as a whole, not only to the particular tile previously discarded. Learn this rule before playing online or at a physical table.
